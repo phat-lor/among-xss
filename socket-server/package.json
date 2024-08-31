@@ -1,0 +1,22 @@
+{
+	"name": "socket-host",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "cat",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"cors": "^2.8.5",
+		"crypto-js": "^4.2.0",
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2",
+		"http": "^0.0.1-security",
+		"js-confuser": "^1.7.1",
+		"socket.io": "^4.7.5",
+		"uuid": "^10.0.0"
+	}
+}

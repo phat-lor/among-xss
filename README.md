@@ -16,6 +16,7 @@ Among XSS is developed strictly for educational purposes. It is intended to demo
 ![Screenshot 2](https://github.com/user-attachments/assets/ebd7376e-8ee9-4efb-b394-92fd1af4c23d)
 ![Screenshot 3](https://github.com/user-attachments/assets/f5ba7f90-4af9-4417-8768-d338b615bdc4)
 ![Screenshot 4](https://github.com/user-attachments/assets/b86f115a-181f-495f-b331-2b4ce7882fc1)
+![2 seconds deobf gang](https://github.com/user-attachments/assets/f544425d-1642-42d4-9ca3-3e20e3fe9789)
 
 ## Demo
 
